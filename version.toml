@@ -1,6 +1,7 @@
-# zapret updater manifest (evelentdev)
-version = "="
-payload = "releases/zapret-=.zpk"
-sha256 = "282e15c0c4507724eb8b42540389bc193c224dce72482449235ecdba1de6e414"
-size = 2699478
+# zapret updater manifest (evelentdev) — encrypted AES-GCM package + Ed25519 sig
+version = "1.11.0"
+payload = "releases/zapret-1.11.0.zpk"
+sha256 = "56c17a6030fe8cc603a9f7f48d1eaa9eedaa4351168f670cb025a1fffa861b82"
+size = 2806100
 notes = "release"
+sig = "a11b84c005529c95b10a9d9e9f0aaefdad474b1a6d3cb556fe443e172a6a08e10c115ac3611c458ce653457a9cc681b21e11380f1adcd73a39f732ddfd383500"
