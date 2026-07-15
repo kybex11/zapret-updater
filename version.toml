@@ -1,0 +1,6 @@
+# zapret updater manifest (evelentdev)
+version = "="
+payload = "releases/zapret-=.zpk"
+sha256 = "282e15c0c4507724eb8b42540389bc193c224dce72482449235ecdba1de6e414"
+size = 2699478
+notes = "release"
