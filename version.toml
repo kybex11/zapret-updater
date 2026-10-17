@@ -1,7 +1,7 @@
 # zapret updater manifest (evelentdev) — encrypted AES-GCM package + Ed25519 sig
-version = "1.19.7"
-payload = "releases/zapret-1.19.7.zpk"
-sha256 = "d533e14e28389f6b5b1ebb3e2767aa2b30e63c721e53c6cec611adcc70a3f2b6"
-size = 8622367
-notes = "HTTP CONNECT bridge for Antigravity/Electron, throughput tuning, clean UI"
-sig = "a8f361f2948342208d66092f83031aa4f2d2aad3a8a73045939fc2313a82120f4a86c378658e7b29ee7eb32ec8d4250b68dfa0a269ec20d4d846e8452b12a108"
+version = "1.19.8"
+payload = "releases/zapret-1.19.8.zpk"
+sha256 = "d42df5b55246f2203963fe54329f1c9d459e6e0c86ce4c2d794a1ca953ebe559"
+size = 8662744
+notes = "Decentralized access control: key expiration, daily/weekly traffic limits, keygen with quotas"
+sig = "04984d3b51ed4d0dcb993bafdcf58fb6919a2388458c136b33c56584bb49f941d0c6591e3dd7854b28ce5f4137f3eda0433a283dfcee551a1772fc41a6500d08"
