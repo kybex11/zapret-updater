@@ -1,7 +1,7 @@
 # zapret updater manifest (evelentdev) — encrypted AES-GCM package + Ed25519 sig
-version = "1.19.10"
-payload = "releases/zapret-1.19.10.zpk"
-sha256 = "9109c7345b90e69deefcfc1c5ae6ef689f3fa8e1303f72c12f611cb32ef16f4a"
-size = 19807122
-notes = "Tunnel speed acceleration (hardware AES-NI cipher, 128KB socket buffers, atomic lock-free traffic accounting, multi-core worker threads)"
-sig = "7ea6df489dc99323c2f412083b7d37bf1a0881f8049deeaa47904c9ecb9a5cfba7d6a6aee7580849acafa9d998f99f5c07bdfac7e5997f28a6d1bb786dda7403"
+version = "1.19.11"
+payload = "releases/zapret-1.19.11.zpk"
+sha256 = "b7633241f85458a5fc1f961f1862fc03ef069f3203590d910c227e6027b49e0e"
+size = 34334068
+notes = "Kernel L3 Wintun TUN mode for all apps (Antigravity, games, Discord), hidden proxy headers, minimalist UI, automatic updater"
+sig = "ce58b6f281a2f7c9c118dca67fd3d29e90d5ca5bd3960ed4d0632cfcdb9a4b18a6412cee17d5288da1f5890f45ba3defe8d4967d13954ca8e9260282e10e290a"
