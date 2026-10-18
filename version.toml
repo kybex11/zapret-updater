@@ -1,7 +1,7 @@
 # zapret updater manifest (evelentdev) — encrypted AES-GCM package + Ed25519 sig
 version = "1.19.9"
 payload = "releases/zapret-1.19.9.zpk"
-sha256 = "7835eef1042cec33ed3249d81a266263a3399d7144c61549e98d05c4dc88dfd3"
-size = 19803286
+sha256 = "dff0fff6ba47ad3301a62572c3ca6e7660b2b7d130bc0ce162d02ccd5556909d"
+size = 19803582
 notes = "Seamless self-update, SOCKS5 Telegram integration, custom winws built from zapret sources, client-only installer"
-sig = "a67ada6610ed4fdababa09cbd1dc08a52111e09f9eb576ed61e6182436ea164b15b87fa4081b89f3ddbce3452947517aa74aa177571470b20535653f0bd8ee0e"
+sig = "93923c99ff26fbfc498952d2027ebf2a4634c43af87199e36cd4051e2c9c8149217112796a74679c67eea8fba6e2b8bdd9f5114175509cc88680670a39aea309"
